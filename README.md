@@ -3,7 +3,7 @@ I take up the challange of days of code.
 
 ## Contents
 * Rules
-* Everyday logs
+* [Everyday logs](./log.md)
 
 ## Rules
 1. Code minimum an hour every day for the next 100 days

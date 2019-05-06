@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        @media(min-width: 600px) {
+            .container {
+                display: flex;
+                /* align-items: flex-start;
+                align-items: flex-end; 
+                align-items: center; 
+            
+                flex-direction: column; */
+            }
+
+            .container2 {
+                display: flex;
+                /* justify-content: flex-end; 
+                justify-content: center; 
+                justify-content: space-around; */
+                justify-content: space-between;
+            }
+        }
+
+
+
+        .box1 {
+            flex: 2;
+            order: 2;
+        }
+
+        .box2 {
+            flex: 1;
+            order: 1;
+        }
+
+        .box3 {
+            flex: 1;
+            order: 3;
+        }
+
+        .container div,
+        .container2 div,
+        .container3 div {
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+
+        .c2-box {
+            flex-basis: 25%;
+            /* width: 25%; */
+        }
+
+        .container3 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .c3-box {
+            flex-basis: 15%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box1">
+            <h3>Box1</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="box2">
+            <h3>Box2</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="box3">
+            <h3>Box3</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+    </div>
+
+    <div class="container2">
+        <div class="c2-box">
+            <h3>Box4</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c2-box">
+            <h3>Box5</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c2-box">
+            <h3>Box6</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+    </div>
+
+    <div class="container3">
+        <div class="c3-box">
+            <h3>Box7</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box8</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box9</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box10</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box11</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box12</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box13</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box14</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+        <div class="c3-box">
+            <h3>Box15</h3>
+            <p>Lorem Ipsum Dolor sit amet.</p>
+        </div>
+    </div>
+</body>
+
+</html>
