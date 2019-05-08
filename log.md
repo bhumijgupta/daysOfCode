@@ -19,3 +19,12 @@
 * [PHP 7 forms](https://www.w3schools.com/php7/php7_form_validation.asp)
 * [Bootstrap Datepicker](https://bootstrap-datepicker.readthedocs.io/en/latest/)
 * [Day2](/Day2)
+
+### Day 3: May 8, Wednesday
+
+**Today's Progress**: HTML5 API, mocha node unit testing, BFR cache in browser
+
+**Link(s) to work**
+* [10 HTML5 APIs Worth Looking Into](https://www.sitepoint.com/10-html5-apis-worth-looking/)
+* [Exploring a back/forward cache for Chrome](https://developers.google.com/web/updates/2019/02/back-forward-cache)
+* [Day3](/Day3)
