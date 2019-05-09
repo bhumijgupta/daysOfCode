@@ -28,3 +28,11 @@
 * [10 HTML5 APIs Worth Looking Into](https://www.sitepoint.com/10-html5-apis-worth-looking/)
 * [Exploring a back/forward cache for Chrome](https://developers.google.com/web/updates/2019/02/back-forward-cache)
 * [Day3](/Day3)
+
+### Day 4: May 9, Thursday
+
+**Today's Progress**: ASP.NET CORE 2.2 Basics
+
+**Link(s) to work**
+* [ASP.NET CORE tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
+* [Day4](/Day4)

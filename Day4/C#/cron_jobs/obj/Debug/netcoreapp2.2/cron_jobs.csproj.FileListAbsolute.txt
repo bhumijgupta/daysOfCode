@@ -1,0 +1,14 @@
+/home/tatech/Desktop/rnd/cron_jobs/bin/Debug/netcoreapp2.2/cron_jobs.deps.json
+/home/tatech/Desktop/rnd/cron_jobs/bin/Debug/netcoreapp2.2/cron_jobs.runtimeconfig.json
+/home/tatech/Desktop/rnd/cron_jobs/bin/Debug/netcoreapp2.2/cron_jobs.runtimeconfig.dev.json
+/home/tatech/Desktop/rnd/cron_jobs/bin/Debug/netcoreapp2.2/cron_jobs.dll
+/home/tatech/Desktop/rnd/cron_jobs/bin/Debug/netcoreapp2.2/cron_jobs.pdb
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.csprojAssemblyReference.cache
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.csproj.CoreCompileInputs.cache
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.RazorAssemblyInfo.cache
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.RazorAssemblyInfo.cs
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.AssemblyInfoInputs.cache
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.AssemblyInfo.cs
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.RazorTargetAssemblyInfo.cache
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.dll
+/home/tatech/Desktop/rnd/cron_jobs/obj/Debug/netcoreapp2.2/cron_jobs.pdb
