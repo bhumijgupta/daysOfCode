@@ -45,3 +45,10 @@
 * [ASP.NET CORE tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
 * [Cleave.js Documentation](https://nosir.github.io/cleave.js/)
 * [Day5](/Day5)
+
+### Day 6: May 11, Saturday
+
+**Today's Progress**: Docker basics
+
+**Link(s) to work**
+* [Day6](/Day6)
