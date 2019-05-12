@@ -52,3 +52,10 @@
 
 **Link(s) to work**
 * [Day6](/Day6)
+
+### Day 7: May 12, Sunday
+
+**Today's Progress**: Chrome extension
+
+**Link(s) to work**
+* [Github-Vanced chrome extension](www.github.com/bhumijgupta/github-vanced)
