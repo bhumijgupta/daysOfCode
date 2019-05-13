@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tatech/Desktop/rnd/test_job/test_job.csproj": {}
+  },
+  "projects": {
+    "/home/tatech/Desktop/rnd/test_job/test_job.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tatech/Desktop/rnd/test_job/test_job.csproj",
+        "projectName": "test_job",
+        "projectPath": "/home/tatech/Desktop/rnd/test_job/test_job.csproj",
+        "packagesPath": "/home/tatech/.nuget/packages/",
+        "outputPath": "/home/tatech/Desktop/rnd/test_job/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/tatech/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

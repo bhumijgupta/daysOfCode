@@ -1,0 +1,14 @@
+/home/tatech/Desktop/rnd/test_job/bin/Debug/netcoreapp2.2/test_job.deps.json
+/home/tatech/Desktop/rnd/test_job/bin/Debug/netcoreapp2.2/test_job.runtimeconfig.json
+/home/tatech/Desktop/rnd/test_job/bin/Debug/netcoreapp2.2/test_job.runtimeconfig.dev.json
+/home/tatech/Desktop/rnd/test_job/bin/Debug/netcoreapp2.2/test_job.dll
+/home/tatech/Desktop/rnd/test_job/bin/Debug/netcoreapp2.2/test_job.pdb
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.csprojAssemblyReference.cache
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.csproj.CoreCompileInputs.cache
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.RazorAssemblyInfo.cache
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.RazorAssemblyInfo.cs
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.AssemblyInfoInputs.cache
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.AssemblyInfo.cs
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.RazorTargetAssemblyInfo.cache
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.dll
+/home/tatech/Desktop/rnd/test_job/obj/Debug/netcoreapp2.2/test_job.pdb
