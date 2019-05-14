@@ -75,3 +75,10 @@
 
 - [ASP.NET core Hangfire](/Day8/test_job)
 - [Incognito detector](readme.md)
+
+### Day 9: May 14, Tuesday
+
+**Today's Progress**: Custom wordpress site, Docker containers
+
+**Link(s) to work**
+- [Docker README](/Day9)
