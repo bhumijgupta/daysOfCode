@@ -74,7 +74,7 @@
 **Link(s) to work**
 
 - [ASP.NET core Hangfire](/Day8/test_job)
-- [Incognito detector](readme.md)
+- [Incognito detector](/Day8/readme.md)
 
 ### Day 9: May 14, Tuesday
 
@@ -84,6 +84,13 @@
 - [Docker README](/Day9)
 
 ### Day 10: May 15, Wednesday
+
+**Today's Progress**: Docker networks
+
+**Link(s) to work**
+- [Day10](/Day10)
+
+### Day 11: May 16, Thursday
 
 **Today's Progress**: Docker networks
 
