@@ -103,3 +103,17 @@
 
 **Link(s) to work**
 - N/A
+
+### Day 13: May 18, Saturday
+
+**Today's Progress**: Docker alias
+
+**Link(s) to work**
+- [Day13](/Day13)
+
+### Day 14: May 19, Sunday
+
+**Today's Progress**: Fixed bugs in Github Vanced
+
+**Link(s) to work**
+- [Github-Vanced chrome extension](www.github.com/bhumijgupta/github-vanced)
