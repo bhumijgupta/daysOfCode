@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tatech/Desktop/rnd/cron_jobs/cron_jobs.csproj": {}
+    "/home/tatech/Desktop/daysOfCode/Day4/C#/cron_jobs/cron_jobs.csproj": {}
   },
   "projects": {
-    "/home/tatech/Desktop/rnd/cron_jobs/cron_jobs.csproj": {
+    "/home/tatech/Desktop/daysOfCode/Day4/C#/cron_jobs/cron_jobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tatech/Desktop/rnd/cron_jobs/cron_jobs.csproj",
+        "projectUniqueName": "/home/tatech/Desktop/daysOfCode/Day4/C#/cron_jobs/cron_jobs.csproj",
         "projectName": "cron_jobs",
-        "projectPath": "/home/tatech/Desktop/rnd/cron_jobs/cron_jobs.csproj",
+        "projectPath": "/home/tatech/Desktop/daysOfCode/Day4/C#/cron_jobs/cron_jobs.csproj",
         "packagesPath": "/home/tatech/.nuget/packages/",
-        "outputPath": "/home/tatech/Desktop/rnd/cron_jobs/obj/",
+        "outputPath": "/home/tatech/Desktop/daysOfCode/Day4/C#/cron_jobs/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tatech/Desktop/daysOfCode/Day8/test_job/test_job.csproj": {}
+    "/home/tatech/Desktop/twilio-test/twilio-test.csproj": {}
   },
   "projects": {
-    "/home/tatech/Desktop/daysOfCode/Day8/test_job/test_job.csproj": {
+    "/home/tatech/Desktop/twilio-test/twilio-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tatech/Desktop/daysOfCode/Day8/test_job/test_job.csproj",
-        "projectName": "test_job",
-        "projectPath": "/home/tatech/Desktop/daysOfCode/Day8/test_job/test_job.csproj",
+        "projectUniqueName": "/home/tatech/Desktop/twilio-test/twilio-test.csproj",
+        "projectName": "twilio-test",
+        "projectPath": "/home/tatech/Desktop/twilio-test/twilio-test.csproj",
         "packagesPath": "/home/tatech/.nuget/packages/",
-        "outputPath": "/home/tatech/Desktop/daysOfCode/Day8/test_job/obj/",
+        "outputPath": "/home/tatech/Desktop/twilio-test/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -39,30 +39,15 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Hangfire": {
-              "target": "Package",
-              "version": "[1.7.2, )"
-            },
-            "Hangfire.MemoryStorage": {
-              "target": "Package",
-              "version": "[1.6.0, )"
-            },
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.29.0, )"
             }
           },
           "imports": [

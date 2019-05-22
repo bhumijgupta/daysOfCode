@@ -117,3 +117,19 @@
 
 **Link(s) to work**
 - [Github-Vanced chrome extension](www.github.com/bhumijgupta/github-vanced)
+
+### Day 15: May 20, Monday
+
+**Today's Progress**: Optimising wordpress site and creating apache virtualhost
+
+**Link(s) to work**
+- [Optimising Wordpress](/Day15/improve-wp-speed.md)
+- [Apache Virtualhost](/Day15/apache-virtual-host.md)
+
+### Day 16: May 21, Tuesday
+
+**Today's Progress**: Twilio and LoanDesk API
+
+**Link(s) to work**
+- [Day16](/Day16/README.md)
+- [Test twilio sms](/Day16)

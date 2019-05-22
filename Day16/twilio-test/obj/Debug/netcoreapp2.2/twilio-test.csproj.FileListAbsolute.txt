@@ -1,0 +1,11 @@
+/home/tatech/Desktop/twilio-test/bin/Debug/netcoreapp2.2/twilio-test.deps.json
+/home/tatech/Desktop/twilio-test/bin/Debug/netcoreapp2.2/twilio-test.runtimeconfig.json
+/home/tatech/Desktop/twilio-test/bin/Debug/netcoreapp2.2/twilio-test.runtimeconfig.dev.json
+/home/tatech/Desktop/twilio-test/bin/Debug/netcoreapp2.2/twilio-test.dll
+/home/tatech/Desktop/twilio-test/bin/Debug/netcoreapp2.2/twilio-test.pdb
+/home/tatech/Desktop/twilio-test/obj/Debug/netcoreapp2.2/twilio-test.csprojAssemblyReference.cache
+/home/tatech/Desktop/twilio-test/obj/Debug/netcoreapp2.2/twilio-test.csproj.CoreCompileInputs.cache
+/home/tatech/Desktop/twilio-test/obj/Debug/netcoreapp2.2/twilio-test.AssemblyInfoInputs.cache
+/home/tatech/Desktop/twilio-test/obj/Debug/netcoreapp2.2/twilio-test.AssemblyInfo.cs
+/home/tatech/Desktop/twilio-test/obj/Debug/netcoreapp2.2/twilio-test.dll
+/home/tatech/Desktop/twilio-test/obj/Debug/netcoreapp2.2/twilio-test.pdb
