@@ -9,7 +9,7 @@ namespace twilio_test
         static void Main(string[] args)
         {
             const string accountSid = "AC9b97a21a9b848df6ffcf59bd1251329b";
-            const string authToken = "66531f1a236946301a3c2ba56a1efeb5";
+            const string authToken = "";
 
             TwilioClient.Init(accountSid, authToken);
             var message = MessageResource.Create(
