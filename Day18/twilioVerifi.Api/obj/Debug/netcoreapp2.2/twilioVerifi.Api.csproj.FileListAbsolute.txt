@@ -1,0 +1,14 @@
+/home/tatech/Desktop/twilioVerifi.Api/bin/Debug/netcoreapp2.2/twilioVerifi.Api.deps.json
+/home/tatech/Desktop/twilioVerifi.Api/bin/Debug/netcoreapp2.2/twilioVerifi.Api.runtimeconfig.json
+/home/tatech/Desktop/twilioVerifi.Api/bin/Debug/netcoreapp2.2/twilioVerifi.Api.runtimeconfig.dev.json
+/home/tatech/Desktop/twilioVerifi.Api/bin/Debug/netcoreapp2.2/twilioVerifi.Api.dll
+/home/tatech/Desktop/twilioVerifi.Api/bin/Debug/netcoreapp2.2/twilioVerifi.Api.pdb
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.csprojAssemblyReference.cache
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.csproj.CoreCompileInputs.cache
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.RazorAssemblyInfo.cache
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.RazorAssemblyInfo.cs
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.AssemblyInfoInputs.cache
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.AssemblyInfo.cs
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.RazorTargetAssemblyInfo.cache
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.dll
+/home/tatech/Desktop/twilioVerifi.Api/obj/Debug/netcoreapp2.2/twilioVerifi.Api.pdb

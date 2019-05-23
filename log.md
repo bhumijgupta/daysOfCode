@@ -140,3 +140,10 @@
 
 **Link(s) to work**
 - [Day17](/Day17)
+
+### Day 18: May 23, Thursday
+
+**Today's Progress**: Twilio message verification
+
+**Link(s) to work**
+- [Day18](/Day18)

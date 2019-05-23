@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/tatech/Desktop/daysOfCode/Day4/C#/cron_jobs/cron_jobs.csproj",
+  "FilePath": "/home/tatech/Desktop/twilioVerifi.Api/twilioVerifi.Api.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2756,6 +2756,6 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "cron_jobs",
+  "RootNamespace": "twilioVerifi.Api",
   "Documents": []
 }
