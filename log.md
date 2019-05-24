@@ -147,3 +147,10 @@
 
 **Link(s) to work**
 - [Day18](/Day18)
+
+### Day 19: May 24, Friday
+
+**Today's Progress**: Node Puppeteer
+
+**Link(s) to work**
+- [Day19](/Day19)
