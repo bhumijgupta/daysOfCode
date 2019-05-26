@@ -154,3 +154,10 @@
 
 **Link(s) to work**
 - [Day19](/Day19)
+
+### Day 20: May 25, Saturday
+
+**Today's Progress**: Docker image layers
+
+**Link(s) to work**
+- [Day20](/Day20)
