@@ -1,5 +1,5 @@
 # DaysOfCode
-I take up the challange of days of code.
+I take up the challange of days of code. Status: Complete
 
 ## Contents
 * Rules
